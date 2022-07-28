@@ -16,5 +16,7 @@ public class App {
         System.out.println(bean == helloWorld);
         System.out.println(cat1 == cat2);
 
+        System.out.println("SSS");
+
     }
 }
